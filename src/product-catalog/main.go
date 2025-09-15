@@ -46,6 +46,8 @@ import (
 	"google.golang.org/protobuf/encoding/protojson"
 )
 
+
+
 var (
 	log               *logrus.Logger
 	catalog           []*pb.Product
